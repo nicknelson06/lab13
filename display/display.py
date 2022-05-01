@@ -1,4 +1,4 @@
-
+# Displays the images for our hangman game 
 class Display:
     ascii_art = [
 '''
