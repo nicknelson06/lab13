@@ -1,3 +1,3 @@
-﻿# lab 13 - Create Github Repository
+﻿# lab 13 - Create Github.com Repository
 
 
